@@ -1,6 +1,5 @@
-package org.epam.tasks1.task2;
+package by.epam.task1.task2;
 
-import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

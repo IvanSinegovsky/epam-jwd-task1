@@ -1,4 +1,4 @@
-package org.epam.tasks1.task10;
+package by.epam.task1.task10;
 
 import org.junit.jupiter.api.Test;
 
